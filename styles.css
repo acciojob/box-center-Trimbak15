@@ -1,1 +1,9 @@
 /*  your css code here. If applicable */
+.item {
+    color: purple;
+    background-color: lightblue;
+    font-size: 10px;
+    text-align: center;
+    padding: 20px;
+    border: 2px solid black;
+}
